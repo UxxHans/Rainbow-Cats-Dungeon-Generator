@@ -1,4 +1,4 @@
-# Rainbow Cats Dungeon Generator
+# Rainbow Cats Dungeon Generator 随机地牢地图算法
 A procedural dungeon generator using maze algorithm.
 
 Hi there!
