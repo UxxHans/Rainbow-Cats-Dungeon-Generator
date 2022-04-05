@@ -15,4 +15,4 @@ https://rainbow-cats-studio.itch.io/rainbow-cats-dungeon-generator
 
 ![alt text](https://github.com/UxxHans/Rainbow-Cats-Dungeon-Generator/blob/main/Pictures/1.png)
 ![alt text](https://github.com/UxxHans/Rainbow-Cats-Dungeon-Generator/blob/main/Pictures/2.png)
-![alt text](https://github.com/UxxHans/Rainbow-Cats-Dungeon-Generator/blob/main/Pictures/3.png)
+![alt text](https://github.com/UxxHans/Rainbow-Cats-Dungeon-Generator/blob/main/Pictures/3.jpg)
