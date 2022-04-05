@@ -12,3 +12,7 @@ Sadly I could not get the 2d shadow caster working in the tilemap, as the maze o
 
 Here is the link to my itch.io page:
 https://rainbow-cats-studio.itch.io/rainbow-cats-dungeon-generator
+
+![alt text](https://github.com/UxxHans/Rainbow-Cats-Dungeon-Generator/blob/main/Pictures/1.png)
+![alt text](https://github.com/UxxHans/Rainbow-Cats-Dungeon-Generator/blob/main/Pictures/2.png)
+![alt text](https://github.com/UxxHans/Rainbow-Cats-Dungeon-Generator/blob/main/Pictures/3.png)
